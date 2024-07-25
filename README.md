@@ -1,1 +1,1 @@
-Pascal Triangle solution
+Interview Solutions
